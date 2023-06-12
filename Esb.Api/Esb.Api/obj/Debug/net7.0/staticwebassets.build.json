@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "pcyGtKq0UNSZJVC9EXQR+Qexb3YjTQZX61EsaWMnRa0=",
+  "Source": "Esb.Api",
+  "BasePath": "_content/Esb.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

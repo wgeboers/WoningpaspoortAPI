@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "RV638TDrmnT6rfztYemowBAVZNhahlUNd4IbGYXRwooF1EODIryK6IeIyn3qmrdpyUr+mETKOggOjLqssqw+AQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\wesle\\OneDrive\\Documenten\\Projecten\\WoningpaspoortAPI\\Esb.Api\\Esb.Models\\Esb.Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wesle\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
+    "C:\\Users\\wesle\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
+    "C:\\Users\\wesle\\.nuget\\packages\\system.io.pipelines\\5.0.2\\system.io.pipelines.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
